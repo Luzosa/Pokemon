@@ -1,0 +1,7 @@
+C:\Users\lion0005\Documents\Repos\Pokemon\PokemonDao\bin\Debug\PokemonDao.exe.config
+C:\Users\lion0005\Documents\Repos\Pokemon\PokemonDao\bin\Debug\PokemonDao.exe
+C:\Users\lion0005\Documents\Repos\Pokemon\PokemonDao\bin\Debug\PokemonDao.pdb
+C:\Users\lion0005\Documents\Repos\Pokemon\PokemonDao\obj\Debug\PokemonDao.csprojAssemblyReference.cache
+C:\Users\lion0005\Documents\Repos\Pokemon\PokemonDao\obj\Debug\PokemonDao.csproj.CoreCompileInputs.cache
+C:\Users\lion0005\Documents\Repos\Pokemon\PokemonDao\obj\Debug\PokemonDao.exe
+C:\Users\lion0005\Documents\Repos\Pokemon\PokemonDao\obj\Debug\PokemonDao.pdb
